@@ -5,7 +5,7 @@ with open("README.md") as fp:
 
 setup(
     name='py_pcha',
-    version='0.1.3',
+    version='0.1.4',
     description='Python implemenation of PCHA algorithm for Archetypal Analysis',
     url='https://github.com/ulfaslak/py_pcha',
     # download_url = 'https://github.com/ulfaslak/py_pcha/tarball/0.1',
